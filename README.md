@@ -1,0 +1,2 @@
+# ksklib
+Kodlarınız kısayoldan hazır.
