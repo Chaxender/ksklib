@@ -1,2 +1,4 @@
 # ksklib
-Kodlarınız kısayoldan hazır.
+--------------
+Türk yapımı olan bu hazır kodlar yaptığınız işleri kolaylaştıracak!
+# Kısayol
